@@ -6,7 +6,7 @@ app = Flask(__name__)
 # Database connection details
 DB_CONFIG = {
     #"host": "127.0.0.1",
-    "host" : "localhost"
+    "host" : "localhost",
     "database": "aircraft_db",
     "user": "postgres",
     "password": "Riti@2901",
